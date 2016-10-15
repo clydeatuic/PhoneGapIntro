@@ -10,9 +10,9 @@ Preso
 
 1. Mobile Development SDLC [Link](https://docs.google.com/presentation/d/1choM7KQajgXFN-xxz7T4mdC_khJRV1UoUDZm75TNztI/edit?usp=sharing)
   * Preso Links
-   * The Prescription Mobile App Paper [Link](https://drive.google.com/file/d/0By-aduulSKAMRElrNzNyZUNJTjg/view?usp=sharing) 
-   * Developer's Training [Link](https://developers.google.com/training/)
-   * Mobile Development Phase [Link](https://drive.google.com/file/d/0By-aduulSKAMQmFnYVdKMnBIaU0/view?usp=sharing)
+    * The Prescription Mobile App Paper [Link](https://drive.google.com/file/d/0By-aduulSKAMRElrNzNyZUNJTjg/view?usp=sharing) 
+    * Developer's Training [Link](https://developers.google.com/training/)
+    * Mobile Development Phase [Link](https://drive.google.com/file/d/0By-aduulSKAMQmFnYVdKMnBIaU0/view?usp=sharing)
 
 PhoneGap Tutorials
 
