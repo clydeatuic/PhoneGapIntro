@@ -12,6 +12,8 @@ Preso
   * Preso Links
    * The Prescription Mobile App Paper [Link](https://drive.google.com/file/d/0By-aduulSKAMRElrNzNyZUNJTjg/view?usp=sharing) 
    * Developer's Training [Link](https://developers.google.com/training/)
+   * Mobile Development Phase [Link](https://drive.google.com/file/d/0By-aduulSKAMQmFnYVdKMnBIaU0/view?usp=sharing)
+
 
 Reading Materials
 
