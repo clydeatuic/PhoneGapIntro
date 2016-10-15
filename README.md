@@ -14,6 +14,11 @@ Preso
    * Developer's Training [Link](https://developers.google.com/training/)
    * Mobile Development Phase [Link](https://drive.google.com/file/d/0By-aduulSKAMQmFnYVdKMnBIaU0/view?usp=sharing)
 
+PhoneGap Tutorials
+
+1. PhoneGap for beginners to advanced [Link](http://www.phonegap.co.in/phonegap-tutorial/)
+1. PhoneGap Blog [Link](http://phonegap.com/blog/tag/tutorial/)
+1. Learn Phonegap by Tutorialized [Link](http://www.tutorialspoint.com/phonegap/)
 
 Reading Materials
 
