@@ -7,6 +7,9 @@ Course Tool
 1. APK Google Drive [Link](https://drive.google.com/drive/folders/0By-aduulSKAMRkY2LW5Ud2lMcEk?usp=sharing)
 1. Final Deliverable [Link](https://docs.google.com/document/d/1fiUsBF0-iJFoqxi8sA4veHPSbxFtA8EVMIMwzwQiTnM/edit?usp=sharing)
 
+Accepted Proposal
+* 202058 - Kindly refer to "Final Deliverable" link above and include it to your blog.
+
 Preso
 
 1. Mobile Development SDLC [Link](https://docs.google.com/presentation/d/1choM7KQajgXFN-xxz7T4mdC_khJRV1UoUDZm75TNztI/edit?usp=sharing)
