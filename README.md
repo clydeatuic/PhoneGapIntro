@@ -8,9 +8,9 @@ Course Tool
 1. Final Deliverable [Link](https://docs.google.com/document/d/1fiUsBF0-iJFoqxi8sA4veHPSbxFtA8EVMIMwzwQiTnM/edit?usp=sharing)
 
 Accepted Proposal
-* 202058
-* 1501928
-* 801235
+* Student ID: 202058
+* Student ID: 1501928
+* Student ID: 801235
 
 Preso
 
